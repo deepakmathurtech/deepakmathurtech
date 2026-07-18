@@ -14,7 +14,6 @@ Currently, I'm building **NextStop**, an intelligent bus management platform, an
 - 💻 Full Stack Developer
 - 🤖 Passionate about Artificial Intelligence & LLMs
 - 🌐 Building scalable web applications
-- 🚍 Creator of **NextStop** – Smart Bus Management System
 - 🏛️ Founder/Builder of **The Central Guild**
 - 🚀 Exploring Local AI, Automation & Open Source
 - 📚 Always learning something new every day
@@ -93,10 +92,8 @@ Working with Local LLMs, automation pipelines, AI assistants, and intelligent de
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: *(Add your LinkedIn URL)*
-- 📧 Email: *(Add your Email)*
-- 🌐 Portfolio: *(Coming Soon)*
-- 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- 📧 Email: deepakmathur.tech@gmail.com
+- 💻 GitHub: https://github.com/deepakmathurtech
 
 ---
 
