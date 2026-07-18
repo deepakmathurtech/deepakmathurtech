@@ -82,14 +82,6 @@ Working with Local LLMs, automation pipelines, AI assistants, and intelligent de
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## 🤝 Connect With Me
 
 - 📧 Email: deepakmathur.tech@gmail.com
